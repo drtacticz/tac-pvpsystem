@@ -9,3 +9,6 @@ features
 4 - 1st person veh fighing 3rd person on bikes
 5 - same veh combat
 6 - when aiming in you can only go closest 3rd person and 1st person
+
+
+runs at idle at 0.01 ms and active on 0.02 ms
