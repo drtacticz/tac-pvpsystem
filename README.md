@@ -1,5 +1,7 @@
 Custom PVP System with some help from my best freind chatgpt 😭
 
+made this becuase im lazy to do meta files 
+
 You can customize recoil & weapon damages in the configs
 
 features
