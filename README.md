@@ -1,4 +1,4 @@
-Custom PVP System with some help from my best freind chatgpt 😭
+Custom PVP System with some help from my best freind AI 😭
 
 made this becuase im lazy to do meta files 
 
